@@ -14,4 +14,4 @@ This repository contains a simple currency converter web application built with 
 - 🎨 CSS for styling the application
 - ⚙️ JavaScript for dynamic functionality and interactivity
 
-Feel free to explore the code and suggest improvements or new features!
+
