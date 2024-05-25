@@ -14,4 +14,6 @@ This repository contains a simple currency converter web application built with 
 - 🎨 CSS for styling the application
 - ⚙️ JavaScript for dynamic functionality and interactivity
 
+1)<b>Converter main page:</b>
 
+![Screenshot 2024-05-25 200923](https://github.com/FenilVadher/Currency-Conveter/assets/115222424/5dadc31f-8e6e-496f-bf5c-14a806f0bf05)
